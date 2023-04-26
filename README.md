@@ -1,4 +1,4 @@
-# PetalStack
+# Petal Stack Default
 
 To start your Phoenix server:
 
