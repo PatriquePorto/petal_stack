@@ -1,4 +1,4 @@
-# Petal Stack Default With Live View!
+# Petal Stack Default!
 
 To start your Phoenix server:
 
