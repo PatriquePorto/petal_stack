@@ -1,4 +1,12 @@
-# Petal Stack Default!
+# Petal Stack Setup!
+
+This a setup config with:
+
+* - Phoenix
+* - Elixir
+* - Tailwind CSS
+* - AlpineJS
+* - LiveView
 
 To start your Phoenix server:
 
