@@ -2,11 +2,11 @@
 
 This a setup config with:
 
-* - Phoenix
-* - Elixir
-* - Tailwind CSS
-* - AlpineJS
-* - LiveView
+* Phoenix
+* Elixir
+* Tailwind CSS
+* AlpineJS
+* LiveView
 
 To start your Phoenix server:
 
